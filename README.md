@@ -1,1 +1,1 @@
-# luxora-shop
+luxora-shop-web
